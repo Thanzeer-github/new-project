@@ -11,5 +11,9 @@ gitS
 git
 k2
 j4
+<<<<<<< HEAD
 >>>>>>> login
 m7 
+=======
+l6
+>>>>>>> login
